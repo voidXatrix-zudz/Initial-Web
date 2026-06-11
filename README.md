@@ -21,7 +21,7 @@ Coming soon...
 
 ## Author
 
-**Dipanjan**
+ 
 
 GitHub: @voidXatrix-zudz
 
