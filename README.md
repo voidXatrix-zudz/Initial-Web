@@ -17,7 +17,7 @@ This portfolio serves as a central place to explore my work, experience, and int
 
 ## Live Website
 
-Coming soon...
+https://initialwebzudz.vercel.app/
 
 ## Author
 
